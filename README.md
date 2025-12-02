@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">This Swift iOS app was made in Software Architecture (CIS-476) taught by Dr. John Crabtree, Fall 2025, at UNA.<br><br>Group members/collaborators:<br><br>- Shun Sasaki<br>- Connor Moore<br>- Bailee Strait<br>- Jackson Harvey<br><br>With the guidance of tutorials and helpful assets from YouTube channels like Swiftful Thinking, we put together an app that displays an interactive map of the University of North Alabama and its downtown area, with markers, images, and descriptions of various locations.<br><br>Our group presented this app to the class and demonstrated via Xcode's simulator its UI and features.<br><br>Please note that a compatible version of Xcode is required to run the project file.</p>
+<p align="left">This Swift iOS app was made in Software Architecture (CIS-476) taught by Dr. John Crabtree, Fall 2025, at UNA.<br><br>Group members/collaborators:<br><br>- Shun Sasaki<br>- Connor Moore<br>- Bailee Strait<br>- Jackson Harvey<br><br>With the guidance of tutorials and helpful assets from YouTube channels like [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking), we put together an app that displays an interactive map of the University of North Alabama and its downtown area, with markers, images, and descriptions of various locations.<br><br>Our group presented this app to the class and demonstrated via Xcode's simulator its UI and features.<br><br>Please note that a compatible version of Xcode is required to run the project file.<br>
+<br></p>
 
 ###
 
